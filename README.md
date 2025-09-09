@@ -1,4 +1,4 @@
-# 👋 Hello, Tech Explorers!
+# 👋 Hello, I'm Nzuzo
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Rust+%26+P2P+Systems+Engineer;Building+African+News+Infrastructure;Distributed+Systems+Enthusiast" alt="Typing SVG" />
