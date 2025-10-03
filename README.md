@@ -45,8 +45,3 @@ let tech_stack = TechStack {
 
 ## 📫 Connect & Collaborate
 Feel free to send a message to my inbox.
----
-
-<div align="center">
-  <i>Building the future of distributed systems, one line of Rust at a time! 🦀✨</i>
-</div>
